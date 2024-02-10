@@ -1,2 +1,2 @@
 # arduino-water-level-sensor
-arduino project for cs 488 summer 2023
+This project was done during the summer semester of 2023, using the Arduino microcontroller.
